@@ -1,4 +1,4 @@
-## Porblme Statement:
+## Problem Statement:
 
 Restaurants generate large volumes of transactional data every day, but this data often remains locked inside databases and is not easily accessible for business decision-making.
 
