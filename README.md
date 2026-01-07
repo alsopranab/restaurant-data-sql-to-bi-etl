@@ -1,4 +1,4 @@
-# Restaurant Analytics – SQL to BI ETL Demo
+# Restaurant Analytics – SQL to BI ETL
 
 <p align="center">
   <img src="dashboard/restaurant_analytics_dashboard.png" width="900">
