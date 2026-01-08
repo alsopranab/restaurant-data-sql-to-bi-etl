@@ -129,5 +129,4 @@ These tables are joined to create a **single analytics-ready dataset**.
 
 ## Author
 
-**Pranab Debnath**  
-GitHub: https://github.com/alsopranab
+@alsopranab
